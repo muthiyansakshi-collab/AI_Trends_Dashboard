@@ -1,9 +1,10 @@
 🤖 AI Trends Dashboard
 
-"Python" (https://img.shields.io/badge/Python-3.10-blue?logo=python)
-"Pandas" (https://img.shields.io/badge/Pandas-Data_Analysis-green?logo=pandas)
-"Gemini API" (https://img.shields.io/badge/Gemini-LLM_API-orange)
-"License" (https://img.shields.io/badge/Status-Completed-success)
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+[![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-green?logo=pandas)](https://img.shields.io/badge/Pandas-Data_Analysis-green?logo=pandas)
+[![Gemini API](https://img.shields.io/badge/Gemini-LLM_API-orange)](https://img.shields.io/badge/Gemini-LLM_API-orange)
+[![Status](https://img.shields.io/badge/Status-Completed-success)](https://img.shields.io/badge/Status-Completed-success)
+[![Project](https://img.shields.io/badge/Project-Python_Developer-red)](https://img.shields.io/badge/Project-Python_Developer-red)
 
 ---
 
